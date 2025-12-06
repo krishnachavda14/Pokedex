@@ -128,4 +128,3 @@ Click on any Pokémon card to view detailed information including:
 ## License
 
 This project is open source and available for educational purposes.
-
